@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:Jarvis 2.0
+email:teamjarvis@gmail.com
+gender:male
+botmaster:teamjarvis
+organization:ALICE AI Foundation
+version:1.0
+

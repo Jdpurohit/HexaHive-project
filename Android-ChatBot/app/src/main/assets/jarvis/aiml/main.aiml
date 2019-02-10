@@ -1,0 +1,21 @@
+<aiml>
+    <category>
+            <pattern>Hi</pattern>
+            <template>
+                Hi i am skillbot. May I know your name
+             </template>
+    </category>
+    <category>
+        <pattern>I am *</pattern>
+        <template>
+                    Hello <set name="username"><star/></set>
+                     There wil be 3 types of tests.
+                        1. Personality test
+                        2. Logical Test
+                        You may select any option from above to give test.
+                        or else play write "WORDPLAY" to play anagram game!
+
+         </template>
+    </category>
+
+</aiml>
